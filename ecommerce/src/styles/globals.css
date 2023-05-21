@@ -1,5 +1,5 @@
 .navbar-top-bg{
-    background-color:#09795f !important;
+    background-color:#00ffff !important;
 }
 
 .navbar{
@@ -15,7 +15,7 @@
     display: block;
     width: 0px;
     height: 2px;
-    background: #791c09;
+    background: #ff8c00;
     transition: 0.4s
 }
 
@@ -29,7 +29,7 @@
 .navbar-dark .navbar-nav .show>.nav-link,
 .navbar-dark .navbar-nav .nav-link:focus,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color:#791c09;
+    color:	#ff8c00;
 }
 
 .nav-link {

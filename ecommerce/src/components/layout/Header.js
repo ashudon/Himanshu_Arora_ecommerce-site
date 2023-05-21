@@ -31,7 +31,7 @@ function Header(){
             <nav className="navbar navbar-top-bg">
                 <div className="container-md">
                     <Link href="/" className='navbar-brand'>
-                        <Image src = "/images/logo.png" width={85} height={50} alt="logo"/>
+                        <Image src = "/images/Anmol.png" width={85} height={50} alt="logo"/>
                     </Link>
                     <Link href="/cart" className='nav-item nav-link d-flex gap-1 align-items-center'>
                         <span className='p-1 rounded-circle bg-danger'>
